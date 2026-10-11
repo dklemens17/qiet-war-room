@@ -7,6 +7,7 @@ Live site: https://dklemens17.github.io/qiet-war-room/
 - **War Room** – next round at a glance: our group, defense outlook, best declaration, tank check
 - **Alliances** – every alliance's attack and defense record, and the ranks of the alliances they beat
 - **Declare** – win chances and expected copper for each target, likely attackers, group plans
+- **Warzone** – best target or defense outlook for every alliance from one warzone (default #1600), with split-the-targets plans where they share a group
 - **Tanking & 2v2** – lose-on-purpose scenarios, value of each rank band, solo vs paired declarations
 - **Data** – battle record, rankings, assumptions
 

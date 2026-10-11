@@ -8,6 +8,7 @@ Live site: https://dklemens17.github.io/qiet-war-room/
 - **Alliances** – every alliance's attack and defense record, and the ranks of the alliances they beat
 - **Declare** – win chances and expected copper for each target, likely attackers, group plans
 - **Warzone** – best target or defense outlook for every alliance from one warzone (default #1600), with split-the-targets plans where they share a group
+- **Final Rankings** – simulates the rest of the season to project every alliance's final copper rank, its chance of each season reward tier, and which faction wins the faction reward
 - **Tanking & 2v2** – lose-on-purpose scenarios, value of each rank band, solo vs paired declarations
 - **Data** – battle record, rankings, assumptions
 

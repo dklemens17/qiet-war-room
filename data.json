@@ -1,7 +1,14 @@
 {
- "exportedAt": "2026-10-11T05:45:10Z",
+ "exportedAt": "2026-10-11T05:56:33Z",
  "config": {
   "assistProb": 0.6,
+  "factionTotals": [
+   {
+    "at": "2026-10-11T05:49:00Z",
+    "blue": 38092764,
+    "red": 39745416
+   }
+  ],
   "knownRates": {
    "QIET": 2800
   },
@@ -16,13 +23,13 @@
  "alliances": [
   {
    "copper": 1459420,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1459420,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "THE KILLER CREW",
@@ -39,9 +46,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 775062,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -58,13 +65,13 @@
   },
   {
    "copper": 1247154,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1247154,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "No Bull Shyte",
@@ -77,13 +84,13 @@
   },
   {
    "copper": 1669588,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1669588,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Full of Laughter",
@@ -96,13 +103,13 @@
   },
   {
    "copper": 1492000,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1492000,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "ĐoànKết",
@@ -119,9 +126,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 158100,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -138,13 +145,13 @@
   },
   {
    "copper": 283638,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 283638,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "BLAST CORPS",
@@ -159,9 +166,9 @@
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 715365,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -178,13 +185,13 @@
   },
   {
    "copper": 1239905,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1239905,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "BloodyLegendMadaFaka",
@@ -197,13 +204,13 @@
   },
   {
    "copper": 1354429,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1354429,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Cangaço",
@@ -216,13 +223,13 @@
   },
   {
    "copper": 1599110,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1599110,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "BuildUponSheerNonsns",
@@ -235,13 +242,13 @@
   },
   {
    "copper": 1219770,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1219770,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "BEASTS of LEGENDS",
@@ -258,9 +265,9 @@
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 308315,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -281,9 +288,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 162768,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -304,9 +311,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 918697,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -323,13 +330,13 @@
   },
   {
    "copper": 1003479,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1003479,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Elite Killers Brazil",
@@ -342,13 +349,13 @@
   },
   {
    "copper": 1435088,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1435088,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "FAUJ",
@@ -361,13 +368,13 @@
   },
   {
    "copper": 1321794,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1321794,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "FOREVER FAMILY",
@@ -380,13 +387,13 @@
   },
   {
    "copper": 1294848,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1294848,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Forever United",
@@ -399,13 +406,13 @@
   },
   {
    "copper": 1579222,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1579222,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "FEARLESS OUTLAWS",
@@ -418,13 +425,13 @@
   },
   {
    "copper": 1363205,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1363205,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Golden PHoenix",
@@ -437,13 +444,13 @@
   },
   {
    "copper": 1553655,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1553655,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Glorious Fight Force",
@@ -456,13 +463,13 @@
   },
   {
    "copper": 1134610,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1134610,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "DEMONIC LEGIÓN",
@@ -479,9 +486,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 258300,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -502,9 +509,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 520016,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -521,13 +528,13 @@
   },
   {
    "copper": 145779,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 145779,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "HUHU without U",
@@ -538,13 +545,13 @@
   },
   {
    "copper": 1454886,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1454886,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Hale Koa 전사",
@@ -557,13 +564,13 @@
   },
   {
    "copper": 1226244,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1226244,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Immortal Vikings",
@@ -580,9 +587,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 347916,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -603,9 +610,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 380500,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -626,9 +633,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 752414,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -645,13 +652,13 @@
   },
   {
    "copper": 1347186,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1347186,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Kitty",
@@ -668,9 +675,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 839500,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -691,9 +698,9 @@
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 869198,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -714,9 +721,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 766133,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -737,9 +744,9 @@
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 931797,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -756,13 +763,13 @@
   },
   {
    "copper": 181300,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 181300,
-     "exact": false
+     "exact": true
     }
    ],
    "inactive": true,
@@ -774,13 +781,13 @@
   },
   {
    "copper": 1574421,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1574421,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Lupi Bellatores",
@@ -797,9 +804,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 827625,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -816,13 +823,13 @@
   },
   {
    "copper": 1519471,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1519471,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "MyFriends GreatTime",
@@ -839,9 +846,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 276190,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -858,13 +865,13 @@
   },
   {
    "copper": 1364340,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1364340,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "NEw Beginnings2",
@@ -877,13 +884,13 @@
   },
   {
    "copper": 1580325,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1580325,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "NEW Beginnings",
@@ -900,9 +907,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 912590,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -923,9 +930,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 44200,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -946,9 +953,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 914270,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -965,13 +972,13 @@
   },
   {
    "copper": 1978570,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1978570,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "OneShot",
@@ -984,13 +991,13 @@
   },
   {
    "copper": 1710006,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1710006,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Orden der Dudeheit",
@@ -1003,13 +1010,13 @@
   },
   {
    "copper": 1239309,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1239309,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "PRIMAL",
@@ -1022,13 +1029,13 @@
   },
   {
    "copper": 1487332,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1487332,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Quiet",
@@ -1041,13 +1048,13 @@
   },
   {
    "copper": 1043370,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1043370,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Wandering Reapers",
@@ -1064,9 +1071,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 703700,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -1087,9 +1094,9 @@
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 686813,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -1106,13 +1113,13 @@
   },
   {
    "copper": 1446022,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1446022,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Royal Shadow Q8",
@@ -1125,13 +1132,13 @@
   },
   {
    "copper": 50460,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 50460,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "메시아Messiah",
@@ -1146,9 +1153,9 @@
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 445939,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -1165,13 +1172,13 @@
   },
   {
    "copper": 1932990,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1932990,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Tesseract Protocol",
@@ -1184,13 +1191,13 @@
   },
   {
    "copper": 1607263,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1607263,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "聯邦調查局",
@@ -1203,13 +1210,13 @@
   },
   {
    "copper": 1513256,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1513256,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "TriggerHappy45",
@@ -1222,13 +1229,13 @@
   },
   {
    "copper": 1928440,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1928440,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Titans of Hell",
@@ -1241,13 +1248,13 @@
   },
   {
    "copper": 1067670,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1067670,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "The Motley Crew4Helo",
@@ -1260,13 +1267,13 @@
   },
   {
    "copper": 1350408,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1350408,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Triple Union",
@@ -1279,13 +1286,13 @@
   },
   {
    "copper": 1330246,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1330246,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "HELOve",
@@ -1298,13 +1305,13 @@
   },
   {
    "copper": 1092961,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1092961,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Vatos Locos",
@@ -1317,13 +1324,13 @@
   },
   {
    "copper": 1701731,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1701731,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Viking EU",
@@ -1336,13 +1343,13 @@
   },
   {
    "copper": 1495181,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1495181,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "THE DREAD PIRATES",
@@ -1355,13 +1362,13 @@
   },
   {
    "copper": 985661,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 985661,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Elite Employees",
@@ -1374,13 +1381,13 @@
   },
   {
    "copper": 1203421,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1203421,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Wolfteam",
@@ -1393,13 +1400,13 @@
   },
   {
    "copper": 47424,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 47424,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Ckghk",
@@ -1410,13 +1417,13 @@
   },
   {
    "copper": 2059034,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 2059034,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "Forged in fire",
@@ -1433,9 +1440,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 507916,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -1456,9 +1463,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 354886,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -1479,9 +1486,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 593092,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -1502,9 +1509,9 @@
    "faction": "red",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 9800,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",
@@ -1521,13 +1528,13 @@
   },
   {
    "copper": 1165770,
-   "copperAt": "2026-10-11T02:50:00Z",
+   "copperAt": "2026-10-11T03:46:00Z",
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 1165770,
-     "exact": false
+     "exact": true
     }
    ],
    "name": "les grillons",
@@ -1544,9 +1551,9 @@
    "faction": "blue",
    "hist": [
     {
-     "at": "2026-10-11T02:50:00Z",
+     "at": "2026-10-11T03:46:00Z",
      "cu": 491886,
-     "exact": false
+     "exact": true
     },
     {
      "at": "2026-10-11T04:02:00Z",

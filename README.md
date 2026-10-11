@@ -11,6 +11,8 @@ Live site: https://dklemens17.github.io/qiet-war-room/
 - **Tanking & 2v2** – lose-on-purpose scenarios, value of each rank band, solo vs paired declarations
 - **Data** – battle record, rankings, assumptions
 
+The EN / PT button in the header switches the whole interface between English and Brazilian Portuguese; each viewer's choice is remembered.
+
 ## Updating
 
 All shared data lives in `data.json`. Replace it to update the site (GitHub Pages republishes in a minute or two).

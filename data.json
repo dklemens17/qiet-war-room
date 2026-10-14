@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-10-14T15:33:04Z",
+ "exportedAt": "2026-10-14T15:35:09Z",
  "config": {
   "assistProb": 0.6,
   "factionTotals": [
@@ -1086,7 +1086,7 @@
    "notes": "",
    "power": 0.9986,
    "powerAt": "2026-10-11T04:02:00Z",
-   "source": "Derived 2026-10-14: Kage no Sato faction total minus every other Kage alliance on the leaderboard (rank 67 screenshot not captured)",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-14 (rank 67, 334,990; matches the value derived from the Kage no Sato faction total)",
    "tag": "Mgst",
    "warzone": 1600
   },

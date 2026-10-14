@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-10-11T19:10:57Z",
+ "exportedAt": "2026-10-14T15:24:28Z",
  "config": {
   "assistProb": 0.6,
   "factionTotals": [
@@ -7,6 +7,11 @@
     "at": "2026-10-11T05:49:00Z",
     "blue": 38092764,
     "red": 39745416
+   },
+   {
+    "at": "2026-10-14T15:10:00Z",
+    "blue": 46874820,
+    "red": 42641057
    }
   ],
   "knownRates": {
@@ -3690,6 +3695,542 @@
    "round": 4,
    "source": "Battle Record screenshots",
    "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 0,
+     "tag": "DDMX"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 0,
+     "tag": "KAPU"
+    }
+   ],
+   "id": "r5-01",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 2900,
+     "tag": "BCPS"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 2900,
+     "tag": "NNTS"
+    }
+   ],
+   "id": "r5-02",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 27100,
+     "tag": "LION"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 27100,
+     "tag": "LupC"
+    }
+   ],
+   "id": "r5-03",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 23400,
+     "tag": "BLLE"
+    },
+    {
+     "cu": 52400,
+     "tag": "REAR"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 75900,
+     "tag": "3auW"
+    },
+    {
+     "cu": 0,
+     "tag": "LP33"
+    }
+   ],
+   "id": "r5-04",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 0,
+     "tag": "LcD1"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 0,
+     "tag": "NFGO"
+    }
+   ],
+   "id": "r5-05",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 0,
+     "tag": "WORK"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 0,
+     "tag": "LD4D"
+    }
+   ],
+   "id": "r5-06",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 150200,
+     "tag": "kpmb"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 150200,
+     "tag": "DMtr"
+    }
+   ],
+   "id": "r5-07",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 89300,
+     "tag": "EKBR"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 89300,
+     "tag": "O2db"
+    }
+   ],
+   "id": "r5-08",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 213500,
+     "tag": "BLMF"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 213500,
+     "tag": "FU69"
+    }
+   ],
+   "id": "r5-09",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 105800,
+     "tag": "TMCr"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 105800,
+     "tag": "Vats"
+    }
+   ],
+   "id": "r5-10",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 43400,
+     "tag": "4NBS"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 43400,
+     "tag": "Kty"
+    }
+   ],
+   "id": "r5-11",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 0,
+     "tag": "HEII"
+    },
+    {
+     "cu": 0,
+     "tag": "BXLD"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 0,
+     "tag": "FFTH"
+    },
+    {
+     "cu": 0,
+     "tag": "IVK"
+    }
+   ],
+   "id": "r5-12",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 221800,
+     "tag": "USp"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 221800,
+     "tag": "TrON"
+    }
+   ],
+   "id": "r5-13",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 131000,
+     "tag": "PRML"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 131000,
+     "tag": "NEw2"
+    }
+   ],
+   "id": "r5-14",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 140700,
+     "tag": "WESS"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 140700,
+     "tag": "FAUJ"
+    }
+   ],
+   "id": "r5-15",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 133400,
+     "tag": "RSQ8"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 133400,
+     "tag": "GPh"
+    }
+   ],
+   "id": "r5-16",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 238200,
+     "tag": "FYNX"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 238200,
+     "tag": "3TKC"
+    }
+   ],
+   "id": "r5-17",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 0,
+     "tag": "BRNE"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 0,
+     "tag": "HoTW"
+    }
+   ],
+   "id": "r5-18",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 242400,
+     "tag": "BUSN"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 242400,
+     "tag": "QIET"
+    }
+   ],
+   "id": "r5-19",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 241700,
+     "tag": "MYGT"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 241700,
+     "tag": "88Hz"
+    }
+   ],
+   "id": "r5-20",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 0,
+     "tag": "OdD"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 0,
+     "tag": "GfF"
+    }
+   ],
+   "id": "r5-21",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 147700,
+     "tag": "VkEU"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 147700,
+     "tag": "TH45"
+    }
+   ],
+   "id": "r5-22",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "D"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 256300,
+     "tag": "bURn"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 256300,
+     "tag": "NEwB"
+    }
+   ],
+   "id": "r5-23",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 254700,
+     "tag": "TIHE"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 254700,
+     "tag": "LupB"
+    }
+   ],
+   "id": "r5-24",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 269700,
+     "tag": "TESS"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 269700,
+     "tag": "55Hz"
+    }
+   ],
+   "id": "r5-25",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
+  },
+  {
+   "atkFaction": "blue",
+   "attackers": [
+    {
+     "cu": 260400,
+     "tag": "ONSH"
+    }
+   ],
+   "date": "2026-10-14",
+   "defenders": [
+    {
+     "cu": 260400,
+     "tag": "TFBI"
+    }
+   ],
+   "id": "r5-26",
+   "round": 5,
+   "source": "Battle Record screenshots",
+   "winner": "A"
   }
  ],
  "plans": {}

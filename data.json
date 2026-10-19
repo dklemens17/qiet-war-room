@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-10-19T04:34:40Z",
+ "exportedAt": "2026-10-19T13:09:56Z",
  "config": {
   "assistProb": 0.6,
   "factionTotals": [
@@ -148,8 +148,8 @@
    "warzone": 1632
   },
   {
-   "copper": 1929032,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copper": 1965432,
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -176,19 +176,24 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 1929032,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 1965432,
+     "exact": true
     }
    ],
    "name": "Full of Laughter",
    "notes": "",
    "power": 18.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning",
    "tag": "55Hz",
    "warzone": 1615
   },
   {
-   "copper": 1909300,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copper": 1943100,
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -215,13 +220,18 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 1909300,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 1943100,
+     "exact": true
     }
    ],
    "name": "ĐoànKết",
    "notes": "",
    "power": 11.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning",
    "tag": "88Hz",
    "warzone": 1615
   },
@@ -709,8 +719,8 @@
    "warzone": 1632
   },
   {
-   "copper": 1951118,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copper": 1987518,
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -737,19 +747,24 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 1951118,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 1987518,
+     "exact": true
     }
    ],
    "name": "FAUJ",
    "notes": "",
    "power": 15.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning",
    "tag": "FAUJ",
    "warzone": 1596
   },
   {
-   "copper": 1974600,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copper": 2007100,
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -776,13 +791,18 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 1974600,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 2007100,
+     "exact": true
     }
    ],
    "name": "FOREVER FAMILY",
    "notes": "",
    "power": 12.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning (row partly hidden; value matches the hourly production step)",
    "tag": "FFTH",
    "warzone": 1596
   },
@@ -1315,7 +1335,7 @@
   },
   {
    "copper": 1946281,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1342,13 +1362,18 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 1946281,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 1946281,
+     "exact": true
     }
    ],
    "name": "Kitty",
-   "notes": "Copper unchanged 10/17 17:30Z to 10/19 00:30Z (0/h, was ~2,200/h): reported dropping cities to slide down the rankings.",
+   "notes": "Copper unchanged 10/17 17:30Z to 10/19 13:05Z (0/h for ~44h, was ~2,200/h): reported dropping cities to slide down the rankings.",
    "power": 15.7,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning",
    "tag": "Kty",
    "warzone": 1629
   },
@@ -2051,8 +2076,8 @@
    "warzone": 1593
   },
   {
-   "copper": 2048412,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copper": 2084812,
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2079,13 +2104,18 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 2048412,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 2084812,
+     "exact": true
     }
    ],
    "name": "Quiet",
    "notes": "",
    "power": 20.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning",
    "tag": "QIET",
    "warzone": 1600
   },
@@ -2414,8 +2444,8 @@
    "warzone": 1596
   },
   {
-   "copper": 1894673,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copper": 1931073,
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2442,13 +2472,18 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 1894673,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 1931073,
+     "exact": true
     }
    ],
    "name": "TriggerHappy45",
    "notes": "",
    "power": 20.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning (row partly hidden; value matches the hourly production step)",
    "tag": "TH45",
    "warzone": 1600
   },
@@ -2531,8 +2566,8 @@
    "warzone": 1605
   },
   {
-   "copper": 1900878,
-   "copperAt": "2026-10-19T00:30:00Z",
+   "copper": 1937278,
+   "copperAt": "2026-10-19T13:05:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2559,13 +2594,18 @@
      "at": "2026-10-19T00:30:00Z",
      "cu": 1900878,
      "exact": true
+    },
+    {
+     "at": "2026-10-19T13:05:00Z",
+     "cu": 1937278,
+     "exact": true
     }
    ],
    "name": "Triple Union",
    "notes": "",
    "power": 17.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-18 evening",
+   "source": "In-game Alliance leaderboard screenshot, 2026-10-19 morning",
    "tag": "TrON",
    "warzone": 1615
   },

@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-10-20T13:29:33Z",
+ "exportedAt": "2026-10-21T16:51:39Z",
  "config": {
   "assistProb": 0.6,
   "factionTotals": [
@@ -27,8 +27,8 @@
  },
  "alliances": [
   {
-   "copper": 2103865,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2179465,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -60,19 +60,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2103865,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2179465,
+     "exact": true
     }
    ],
    "name": "THE KILLER CREW",
    "notes": "",
    "power": 17.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "3TKC",
    "warzone": 1600
   },
   {
-   "copper": 1124459,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1254204,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -108,19 +113,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1124459,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1254204,
+     "exact": true
     }
    ],
    "name": "黃昏冥界",
    "notes": "",
    "power": 2.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "3auW",
    "warzone": 1596
   },
   {
-   "copper": 1680255,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1508859,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -152,19 +162,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1680255,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1508859,
+     "exact": true
     }
    ],
    "name": "No Bull Shyte",
    "notes": "",
    "power": 15.2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "4NBS",
    "warzone": 1632
   },
   {
-   "copper": 2032632,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2440892,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -201,19 +216,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2032632,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2440892,
+     "exact": true
     }
    ],
    "name": "Full of Laughter",
    "notes": "",
    "power": 18.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "55Hz",
    "warzone": 1615
   },
   {
-   "copper": 2005500,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2362515,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -250,19 +270,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2005500,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2362515,
+     "exact": true
     }
    ],
    "name": "ĐoànKết",
    "notes": "",
    "power": 11.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "88Hz",
    "warzone": 1615
   },
   {
-   "copper": 225900,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 234000,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -298,19 +323,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 225900,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 234000,
+     "exact": true
     }
    ],
    "name": "ACADEMIA VATOS LOCOS",
    "notes": "",
    "power": 2.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "AVLS",
    "warzone": 1600
   },
   {
-   "copper": 389395,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 351149,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -342,19 +372,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 389395,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 351149,
+     "exact": true
     }
    ],
    "name": "BLAST CORPS",
    "notes": "",
    "power": 1.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "BCPS",
    "warzone": 1593
   },
   {
-   "copper": 1065459,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1011690,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -390,19 +425,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1065459,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1011690,
+     "exact": true
     }
    ],
    "name": "BloodyLegends",
    "notes": "",
    "power": 7.2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "BLLE",
    "warzone": 1601
   },
   {
-   "copper": 1610374,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1515985,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -434,19 +474,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1610374,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1515985,
+     "exact": true
     }
    ],
    "name": "BloodyLegendMadaFaka",
    "notes": "",
    "power": 14,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "BLMF",
    "warzone": 1601
   },
   {
-   "copper": 76600,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 90100,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -473,19 +518,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 76600,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 90100,
+     "exact": true
     }
    ],
    "name": "ExércitoBrasileiro",
    "notes": "New on the 10/14 leaderboard",
    "power": 3.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "BREx",
    "warzone": 1596
   },
   {
-   "copper": 1734508,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1554973,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -517,19 +567,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1734508,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1554973,
+     "exact": true
     }
    ],
    "name": "Cangaço",
    "notes": "",
    "power": 16.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "BRNE",
    "warzone": 1593
   },
   {
-   "copper": 2387926,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2452726,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -561,19 +616,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2387926,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2452726,
+     "exact": true
     }
    ],
    "name": "BuildUponSheerNonsns",
    "notes": "",
    "power": 21.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "BUSN",
    "warzone": 1605
   },
   {
-   "copper": 1620045,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1457680,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -605,19 +665,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1620045,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1457680,
+     "exact": true
     }
    ],
    "name": "BEASTS of LEGENDS",
    "notes": "",
    "power": 10.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "BXLD",
    "warzone": 1593
   },
   {
-   "copper": 443061,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 461961,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -653,19 +718,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 443061,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 461961,
+     "exact": true
     }
    ],
    "name": "BlackDiamond",
    "notes": "",
    "power": 2.2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "DDMX",
    "warzone": 1601
   },
   {
-   "copper": 239904,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 248004,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -701,19 +771,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 239904,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 248004,
+     "exact": true
     }
    ],
    "name": "DreamFuture",
    "notes": "",
    "power": 1.7,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "DFTS",
    "warzone": 1615
   },
   {
-   "copper": 1243017,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1412316,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -749,19 +824,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1243017,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1412316,
+     "exact": true
     }
    ],
    "name": "DARK MATTER",
    "notes": "",
    "power": 9.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "DMtr",
    "warzone": 1600
   },
   {
-   "copper": 1366311,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1302312,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -793,19 +873,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1366311,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1302312,
+     "exact": true
     }
    ],
    "name": "Elite Killers Brazil",
    "notes": "",
    "power": 5.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "EKBR",
    "warzone": 1632
   },
   {
-   "copper": 2054718,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2191923,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -842,19 +927,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2054718,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2191923,
+     "exact": true
     }
    ],
    "name": "FAUJ",
    "notes": "",
    "power": 15.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "FAUJ",
    "warzone": 1596
   },
   {
-   "copper": 2067100,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2134600,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -891,63 +981,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2067100,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2134600,
+     "exact": true
     }
    ],
    "name": "FOREVER FAMILY",
    "notes": "",
    "power": 12.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "FFTH",
    "warzone": 1596
   },
   {
-   "copper": 1754617,
-   "copperAt": "2026-10-20T13:25:00Z",
-   "faction": "red",
-   "hist": [
-    {
-     "at": "2026-10-11T03:46:00Z",
-     "cu": 1294848,
-     "exact": true
-    },
-    {
-     "at": "2026-10-14T15:22:00Z",
-     "cu": 1316503,
-     "exact": true
-    },
-    {
-     "at": "2026-10-16T20:28:00Z",
-     "cu": 1464903,
-     "exact": true
-    },
-    {
-     "at": "2026-10-17T17:30:00Z",
-     "cu": 1564217,
-     "exact": true
-    },
-    {
-     "at": "2026-10-19T00:30:00Z",
-     "cu": 1651017,
-     "exact": true
-    },
-    {
-     "at": "2026-10-20T13:25:00Z",
-     "cu": 1754617,
-     "exact": true
-    }
-   ],
-   "name": "Forever United",
-   "notes": "",
-   "power": 13.1,
-   "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
-   "tag": "FU69",
-   "warzone": 1615
-  },
-  {
-   "copper": 2427653,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2500553,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -979,19 +1030,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2427653,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2500553,
+     "exact": true
     }
    ],
    "name": "FEARLESS OUTLAWS",
    "notes": "",
    "power": 21,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "FYNX",
    "warzone": 1593
   },
   {
-   "copper": 2066298,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2136498,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1023,19 +1079,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2066298,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2136498,
+     "exact": true
     }
    ],
    "name": "Golden PHoenix",
    "notes": "",
    "power": 17.8,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "GPh",
    "warzone": 1629
   },
   {
-   "copper": 2254255,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2628534,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1067,19 +1128,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2254255,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2628534,
+     "exact": true
     }
    ],
    "name": "Glorious Fight Force",
    "notes": "",
    "power": 22.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "GfF",
    "warzone": 1629
   },
   {
-   "copper": 1484170,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1420795,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -1111,19 +1177,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1484170,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1420795,
+     "exact": true
     }
    ],
    "name": "DEMONIC LEGIÓN",
    "notes": "",
    "power": 10.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "HEII",
    "warzone": 1632
   },
   {
-   "copper": 369300,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 381800,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1159,19 +1230,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 369300,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 381800,
+     "exact": true
     }
    ],
    "name": "HESMAN",
    "notes": "",
    "power": 2.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "HES1",
    "warzone": 1596
   },
   {
-   "copper": 813426,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 869218,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1207,19 +1283,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 813426,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 869218,
+     "exact": true
     }
    ],
    "name": "Holi on Tour",
    "notes": "",
    "power": 2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "HOLI",
    "warzone": 1629
   },
   {
-   "copper": 184404,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 165384,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -1251,19 +1332,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 184404,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 165384,
+     "exact": true
     }
    ],
    "name": "HUHU without U",
    "notes": "",
    "power": 4.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "HUH",
    "warzone": 1605
   },
   {
-   "copper": 2480171,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2714918,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1295,19 +1381,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2480171,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2714918,
+     "exact": true
     }
    ],
    "name": "Hale Koa 전사",
    "notes": "",
    "power": 22.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "HoTW",
    "warzone": 1600
   },
   {
-   "copper": 1865569,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2134959,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1339,19 +1430,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1865569,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2134959,
+     "exact": true
     }
    ],
    "name": "Immortal Vikings",
    "notes": "",
    "power": 14.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "IVK",
    "warzone": 1629
   },
   {
-   "copper": 646291,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 705811,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1387,19 +1483,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 646291,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 705811,
+     "exact": true
     }
    ],
    "name": "IMMORTALs",
    "notes": "",
    "power": 2.8,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "ImT",
    "warzone": 1629
   },
   {
-   "copper": 632900,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 665300,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1435,19 +1536,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 632900,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 665300,
+     "exact": true
     }
    ],
    "name": "American Veterans",
    "notes": "",
    "power": 2.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Jaws",
    "warzone": 1600
   },
   {
-   "copper": 1114014,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1157214,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1483,19 +1589,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1114014,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1157214,
+     "exact": true
     }
    ],
    "name": "Menehunes",
    "notes": "",
    "power": 8.2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "KAPU",
    "warzone": 1600
   },
   {
-   "copper": 1946281,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2202806,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1532,19 +1643,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1946281,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2202806,
+     "exact": true
     }
    ],
    "name": "Kitty",
-   "notes": "Copper unchanged since 10/17 17:30Z through 10/20 13:25Z (0/h for ~68h, was ~2,200/h): dropped cities to slide down the rankings. Locked in Kage #13 for round 7 (group 13-15), 224 copper ahead of TFBI.",
+   "notes": "Copper unchanged 10/17 17:30Z to 10/21 ~15:00Z (0/h for ~93h after dropping cities); production restarted right after the round 7 battle (about 2,300 in the 16:00Z tick).",
    "power": 15.7,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Kty",
    "warzone": 1629
   },
   {
-   "copper": 1356436,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1572662,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1580,19 +1696,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1356436,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1572662,
+     "exact": true
     }
    ],
    "name": "inTrovert",
    "notes": "",
    "power": 5.3,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "LD4D",
    "warzone": 1596
   },
   {
-   "copper": 1303172,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1313325,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -1628,19 +1749,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1303172,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1313325,
+     "exact": true
     }
    ],
    "name": "The LIONs",
    "notes": "",
    "power": 10.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "LION",
    "warzone": 1605
   },
   {
-   "copper": 1152228,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1358888,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1676,19 +1802,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1152228,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1358888,
+     "exact": true
     }
    ],
    "name": "金幣狂歡",
    "notes": "",
    "power": 7.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "LP33",
    "warzone": 1615
   },
   {
-   "copper": 1146141,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1023181,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -1724,19 +1855,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1146141,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1023181,
+     "exact": true
     }
    ],
    "name": "Les clans Destin",
    "notes": "",
    "power": 2.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "LcD1",
    "warzone": 1632
   },
   {
-   "copper": 271700,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 282500,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1768,18 +1904,23 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 271700,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 282500,
+     "exact": true
     }
    ],
    "inactive": true,
    "name": "Legião Br",
    "notes": "Not listed in the in-game Faction Ranking on Oct 11",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Lebr",
    "warzone": 1615
   },
   {
-   "copper": 2118074,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2190974,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1811,19 +1952,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2118074,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2190974,
+     "exact": true
     }
    ],
    "name": "Lupi Bellatores",
    "notes": "",
    "power": 18.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "LupB",
    "warzone": 1629
   },
   {
-   "copper": 1184651,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1313606,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1859,19 +2005,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1184651,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1313606,
+     "exact": true
     }
    ],
    "name": "Lupi Constructa",
    "notes": "",
    "power": 8.3,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "LupC",
    "warzone": 1629
   },
   {
-   "copper": 2205767,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2281367,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -1903,19 +2054,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2205767,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2281367,
+     "exact": true
     }
    ],
    "name": "MyFriends GreatTime",
    "notes": "",
    "power": 16.7,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "MYGT",
    "warzone": 1632
   },
   {
-   "copper": 434390,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 453290,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1951,19 +2107,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 434390,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 453290,
+     "exact": true
     }
    ],
    "name": "The Magistrates",
    "notes": "",
    "power": 1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Mgst",
    "warzone": 1600
   },
   {
-   "copper": 1937991,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2134980,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -1995,19 +2156,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1937991,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2134980,
+     "exact": true
     }
    ],
    "name": "NEw Beginnings2",
    "notes": "",
    "power": 14.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "NEw2",
    "warzone": 1596
   },
   {
-   "copper": 1955759,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2286494,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2039,19 +2205,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1955759,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2286494,
+     "exact": true
     }
    ],
    "name": "NEW Beginnings",
    "notes": "",
    "power": 16.3,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "NEwB",
    "warzone": 1596
   },
   {
-   "copper": 1475280,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1649355,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2087,19 +2258,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1475280,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1649355,
+     "exact": true
     }
    ],
    "name": "NFgO",
    "notes": "",
    "power": 9.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "NFGO",
    "warzone": 1615
   },
   {
-   "copper": 63872,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 66572,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2135,19 +2311,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 63872,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 66572,
+     "exact": true
     }
    ],
    "name": "非想非非想天",
    "notes": "",
    "power": 1.3,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "NNTS",
    "warzone": 1596
   },
   {
-   "copper": 1379004,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1463351,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2183,19 +2364,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1379004,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1463351,
+     "exact": true
     }
    ],
    "name": "Out to kill",
    "notes": "",
    "power": 7.7,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "O2db",
    "warzone": 1596
   },
   {
-   "copper": 2568691,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2655091,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2227,19 +2413,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2568691,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2655091,
+     "exact": true
     }
    ],
    "name": "OneShot",
    "notes": "",
    "power": 20.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "ONSH",
    "warzone": 1601
   },
   {
-   "copper": 2082300,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2085495,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2271,19 +2462,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2082300,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2085495,
+     "exact": true
     }
    ],
    "name": "Orden der Dudeheit",
    "notes": "",
    "power": 16.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "OdD",
    "warzone": 1605
   },
   {
-   "copper": 1727234,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1545909,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2315,19 +2511,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1727234,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1545909,
+     "exact": true
     }
    ],
    "name": "PRIMAL",
    "notes": "",
    "power": 17.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "PRML",
    "warzone": 1593
   },
   {
-   "copper": 2152012,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2227612,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2364,19 +2565,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2152012,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2227612,
+     "exact": true
     }
    ],
    "name": "Quiet",
    "notes": "",
    "power": 20.9,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "QIET",
    "warzone": 1600
   },
   {
-   "copper": 1472770,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1306575,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2408,19 +2614,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1472770,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1306575,
+     "exact": true
     }
    ],
    "name": "Wandering Reapers",
    "notes": "",
    "power": 7.8,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "R34P",
    "warzone": 1593
   },
   {
-   "copper": 1137721,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1272490,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2456,19 +2667,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1137721,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1272490,
+     "exact": true
     }
    ],
    "name": "RCK",
    "notes": "",
    "power": 5.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "RC1K",
    "warzone": 1615
   },
   {
-   "copper": 940839,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 898284,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2504,19 +2720,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 940839,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 898284,
+     "exact": true
     }
    ],
    "name": "Backdoor Entry Team",
    "notes": "",
    "power": 2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "REAR",
    "warzone": 1593
   },
   {
-   "copper": 1954234,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1730219,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2548,19 +2769,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1954234,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1730219,
+     "exact": true
     }
    ],
    "name": "Royal Shadow Q8",
    "notes": "",
    "power": 17.2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "RSQ8",
    "warzone": 1601
   },
   {
-   "copper": 62724,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 65424,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2592,19 +2818,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 62724,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 65424,
+     "exact": true
     }
    ],
    "name": "메시아Messiah",
    "notes": "",
    "power": 1.7,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Rok2",
    "warzone": 1632
   },
   {
-   "copper": 608179,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 548634,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2640,19 +2871,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 608179,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 548634,
+     "exact": true
     }
    ],
    "name": "ThePeakyn",
    "notes": "",
    "power": 2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "T2n",
    "warzone": 1593
   },
   {
-   "copper": 2854146,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2932446,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2684,19 +2920,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2854146,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2932446,
+     "exact": true
     }
    ],
    "name": "Tesseract Protocol",
    "notes": "",
    "power": 21.7,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TESS",
    "warzone": 1605
   },
   {
-   "copper": 1979657,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2302253,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2728,19 +2969,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1979657,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2302253,
+     "exact": true
     }
    ],
    "name": "聯邦調查局",
    "notes": "",
    "power": 16.1,
    "powerAt": "2026-10-20T13:25:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TFBI",
    "warzone": 1596
   },
   {
-   "copper": 1998273,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2341434,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2777,19 +3023,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1998273,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2341434,
+     "exact": true
     }
    ],
    "name": "TriggerHappy45",
    "notes": "",
    "power": 20.1,
    "powerAt": "2026-10-20T13:25:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TH45",
    "warzone": 1600
   },
   {
-   "copper": 2827931,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2906231,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2821,19 +3072,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2827931,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2906231,
+     "exact": true
     }
    ],
    "name": "Titans of Hell",
    "notes": "",
    "power": 24.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TIHE",
    "warzone": 1605
   },
   {
-   "copper": 1471972,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1425234,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2865,19 +3121,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1471972,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1425234,
+     "exact": true
     }
    ],
    "name": "The Motley Crew4Helo",
    "notes": "",
    "power": 16.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TMCr",
    "warzone": 1605
   },
   {
-   "copper": 2004478,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2371103,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -2914,19 +3175,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2004478,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2371103,
+     "exact": true
     }
    ],
    "name": "Triple Union",
    "notes": "",
    "power": 17.6,
    "powerAt": "2026-10-20T13:25:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TrON",
    "warzone": 1615
   },
   {
-   "copper": 1819230,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1615469,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -2958,19 +3224,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1819230,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1615469,
+     "exact": true
     }
    ],
    "name": "HELOve",
    "notes": "",
    "power": 18.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "USp",
    "warzone": 1605
   },
   {
-   "copper": 1608385,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1744223,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -3002,19 +3273,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1608385,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1744223,
+     "exact": true
     }
    ],
    "name": "Vatos Locos",
    "notes": "",
    "power": 14.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Vats",
    "warzone": 1600
   },
   {
-   "copper": 2245336,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1974776,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -3046,19 +3322,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 2245336,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1974776,
+     "exact": true
     }
    ],
    "name": "Viking EU",
    "notes": "",
    "power": 18.1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "VkEU",
    "warzone": 1601
   },
   {
-   "copper": 1973783,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1758358,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -3090,19 +3371,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1973783,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1758358,
+     "exact": true
     }
    ],
    "name": "THE DREAD PIRATES",
    "notes": "",
    "power": 14.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "WESS",
    "warzone": 1632
   },
   {
-   "copper": 1191925,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1062099,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -3134,19 +3420,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1191925,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1062099,
+     "exact": true
     }
    ],
    "name": "Elite Employees",
    "notes": "",
    "power": 6.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "WORK",
    "warzone": 1593
   },
   {
-   "copper": 1884677,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2176642,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -3178,19 +3469,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1884677,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2176642,
+     "exact": true
     }
    ],
    "name": "Wolfteam",
    "notes": "",
    "power": 15.4,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Wft",
    "warzone": 1629
   },
   {
-   "copper": 70024,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 72724,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -3222,19 +3518,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 70024,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 72724,
+     "exact": true
     }
    ],
    "name": "Ckghk",
    "notes": "",
    "power": 4.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Zxxd",
    "warzone": 1593
   },
   {
-   "copper": 3036600,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 2673270,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -3266,19 +3567,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 3036600,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2673270,
+     "exact": true
     }
    ],
    "name": "Forged in fire",
    "notes": "",
    "power": 23.2,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "bURn",
    "warzone": 1601
   },
   {
-   "copper": 734319,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 758619,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -3314,19 +3620,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 734319,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 758619,
+     "exact": true
     }
    ],
    "name": "Colombia Latina",
    "notes": "",
    "power": 2.6,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "d5ma",
    "warzone": 1615
   },
   {
-   "copper": 617640,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 686493,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -3362,19 +3673,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 617640,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 686493,
+     "exact": true
     }
    ],
    "name": "GoodDay88",
    "notes": "",
    "power": 3.3,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "gd88",
    "warzone": 1600
   },
   {
-   "copper": 931946,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 969746,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -3410,19 +3726,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 931946,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 969746,
+     "exact": true
     }
    ],
    "name": "The HeRoEs",
    "notes": "",
    "power": 4.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "hRs",
    "warzone": 1629
   },
   {
-   "copper": 55000,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 60400,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "red",
    "hist": [
     {
@@ -3458,19 +3779,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 55000,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 60400,
+     "exact": true
     }
    ],
    "name": "0華人街區0",
    "notes": "",
    "power": 1,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "jBIK",
    "warzone": 1615
   },
   {
-   "copper": 1493535,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 1321345,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -3502,19 +3828,24 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 1493535,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 1321345,
+     "exact": true
     }
    ],
    "name": "les grillons",
    "notes": "",
    "power": 13.3,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "kpmb",
    "warzone": 1601
   },
   {
-   "copper": 668065,
-   "copperAt": "2026-10-20T13:25:00Z",
+   "copper": 700465,
+   "copperAt": "2026-10-21T16:40:00Z",
    "faction": "blue",
    "hist": [
     {
@@ -3550,15 +3881,72 @@
      "at": "2026-10-20T13:25:00Z",
      "cu": 668065,
      "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 700465,
+     "exact": true
     }
    ],
    "name": "oBey Worldwide",
    "notes": "",
    "power": 7.5,
    "powerAt": "2026-10-14T16:05:00Z",
-   "source": "In-game Alliance leaderboard screenshots, 2026-10-20 morning",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "oBey",
    "warzone": 1605
+  },
+  {
+   "copper": 2047712,
+   "copperAt": "2026-10-21T16:40:00Z",
+   "faction": "red",
+   "hist": [
+    {
+     "at": "2026-10-11T03:46:00Z",
+     "cu": 1294848,
+     "exact": true
+    },
+    {
+     "at": "2026-10-14T15:22:00Z",
+     "cu": 1316503,
+     "exact": true
+    },
+    {
+     "at": "2026-10-16T20:28:00Z",
+     "cu": 1464903,
+     "exact": true
+    },
+    {
+     "at": "2026-10-17T17:30:00Z",
+     "cu": 1564217,
+     "exact": true
+    },
+    {
+     "at": "2026-10-19T00:30:00Z",
+     "cu": 1651017,
+     "exact": true
+    },
+    {
+     "at": "2026-10-20T13:25:00Z",
+     "cu": 1754617,
+     "exact": true
+    },
+    {
+     "at": "2026-10-21T16:40:00Z",
+     "cu": 2047712,
+     "exact": true
+    }
+   ],
+   "name": "Alliancem19f",
+   "notes": "Renamed from [FU69] Forever United on 10/21 (same warzone #1615; copper carried over exactly).",
+   "power": 13.1,
+   "powerAt": "2026-10-14T16:05:00Z",
+   "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
+   "tag": "pmdH",
+   "warzone": 1615,
+   "aliases": [
+    "FU69"
+   ]
   }
  ],
  "battles": [
@@ -3687,7 +4075,7 @@
    "attackers": [
     {
      "cu": 45200,
-     "tag": "FU69"
+     "tag": "pmdH"
     }
    ],
    "date": "2026-09-30",
@@ -3700,7 +4088,8 @@
    "id": "r1-07",
    "round": 1,
    "source": "Battle Record screenshots",
-   "winner": "D"
+   "winner": "D",
+   "note": "pmdH fought as [FU69] Forever United."
   },
   {
    "atkFaction": "red",
@@ -4258,13 +4647,14 @@
    "defenders": [
     {
      "cu": 150800,
-     "tag": "FU69"
+     "tag": "pmdH"
     }
    ],
    "id": "r2-06",
    "round": 2,
    "source": "Battle Record screenshots",
-   "winner": "A"
+   "winner": "A",
+   "note": "pmdH fought as [FU69] Forever United."
   },
   {
    "atkFaction": "blue",
@@ -5006,13 +5396,14 @@
    "defenders": [
     {
      "cu": 168500,
-     "tag": "FU69"
+     "tag": "pmdH"
     }
    ],
    "id": "r3-19",
    "round": 3,
    "source": "Battle Record screenshots",
-   "winner": "A"
+   "winner": "A",
+   "note": "pmdH fought as [FU69] Forever United."
   },
   {
    "atkFaction": "blue",
@@ -5447,7 +5838,7 @@
    "attackers": [
     {
      "cu": 0,
-     "tag": "FU69"
+     "tag": "pmdH"
     }
    ],
    "date": "2026-10-10",
@@ -5460,7 +5851,8 @@
    "id": "r4-17",
    "round": 4,
    "source": "Battle Record screenshots",
-   "winner": "D"
+   "winner": "D",
+   "note": "pmdH fought as [FU69] Forever United."
   },
   {
    "atkFaction": "red",
@@ -5863,13 +6255,14 @@
    "defenders": [
     {
      "cu": 213500,
-     "tag": "FU69"
+     "tag": "pmdH"
     }
    ],
    "id": "r5-09",
    "round": 5,
    "source": "Battle Record screenshots",
-   "winner": "A"
+   "winner": "A",
+   "note": "pmdH fought as [FU69] Forever United."
   },
   {
    "atkFaction": "blue",
@@ -6592,7 +6985,7 @@
    "attackers": [
     {
      "cu": 40500,
-     "tag": "FU69"
+     "tag": "pmdH"
     }
    ],
    "date": "2026-10-17",
@@ -6605,7 +6998,8 @@
    "id": "r6-19",
    "round": 6,
    "source": "Battle Record screenshots",
-   "winner": "D"
+   "winner": "D",
+   "note": "pmdH fought as [FU69] Forever United."
   },
   {
    "atkFaction": "red",
@@ -6858,6 +7252,606 @@
    "round": 6,
    "source": "Battle Record screenshots",
    "winner": "D"
+  },
+  {
+   "id": "r7-01",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "ImT",
+     "cu": 27100
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "HUH",
+     "cu": 27100
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-02",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "NNTS",
+     "cu": 0
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "Zxxd",
+     "cu": 0
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-03",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "gd88",
+     "cu": 36400
+    },
+    {
+     "tag": "HOLI",
+     "cu": 20600
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "BCPS",
+     "cu": 57100
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-04",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "LupC",
+     "cu": 83000
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "REAR",
+     "cu": 83000
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots",
+   "note": "Defense held the center but lost buildings."
+  },
+  {
+   "id": "r7-05",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "3auW",
+     "cu": 89200
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "T2n",
+     "cu": 89200
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-06",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "LP33",
+     "cu": 168800
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "LcD1",
+     "cu": 168800
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-07",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "RC1K",
+     "cu": 94200
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "BLLE",
+     "cu": 94200
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots",
+   "note": "Defense held the center but lost buildings."
+  },
+  {
+   "id": "r7-08",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "O2db",
+     "cu": 38400
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "LION",
+     "cu": 38400
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots",
+   "note": "Defense held the center but lost buildings."
+  },
+  {
+   "id": "r7-09",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "LD4D",
+     "cu": 175700
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "WORK",
+     "cu": 175700
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-10",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "pmdH",
+     "cu": 217400
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "R34P",
+     "cu": 217400
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-11",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "DMtr",
+     "cu": 120600
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "EKBR",
+     "cu": 120600
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots",
+   "note": "Defense held the center but lost buildings."
+  },
+  {
+   "id": "r7-12",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "NFGO",
+     "cu": 130800
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "HEII",
+     "cu": 130800
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-13",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "Vats",
+     "cu": 87200
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "TMCr",
+     "cu": 87200
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots",
+   "note": "Defense held the center but lost buildings."
+  },
+  {
+   "id": "r7-14",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "Wft",
+     "cu": 237900
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "BXLD",
+     "cu": 237900
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-15",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "IVK",
+     "cu": 220700
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "kpmb",
+     "cu": 220700
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-16",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "88Hz",
+     "cu": 288800
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "RSQ8",
+     "cu": 288800
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-17",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "TH45",
+     "cu": 268500
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "USp",
+     "cu": 268500
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-18",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "TFBI",
+     "cu": 246900
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "4NBS",
+     "cu": 246900
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-19",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "NEw2",
+     "cu": 142900
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "BLMF",
+     "cu": 142900
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots",
+   "note": "Defense held the center but lost buildings."
+  },
+  {
+   "id": "r7-20",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "NEwB",
+     "cu": 255100
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "BRNE",
+     "cu": 255100
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-21",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "Kty",
+     "cu": 254200
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "PRML",
+     "cu": 254200
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-22",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "FAUJ",
+     "cu": 61600
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "OdD",
+     "cu": 61600
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots",
+   "note": "Defense held the center but lost buildings."
+  },
+  {
+   "id": "r7-23",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "TrON",
+     "cu": 291000
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "WESS",
+     "cu": 291000
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-24",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "55Hz",
+     "cu": 332600
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "VkEU",
+     "cu": 332600
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-25",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "GPh",
+     "cu": 0
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "MYGT",
+     "cu": 0
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-26",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "LupB",
+     "cu": 0
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "ONSH",
+     "cu": 0
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-27",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "3TKC",
+     "cu": 0
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "BUSN",
+     "cu": 0
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots"
+  },
+  {
+   "id": "r7-28",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "HoTW",
+     "cu": 159100
+    },
+    {
+     "tag": "GfF",
+     "cu": 290500
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "bURn",
+     "cu": 449700
+    },
+    {
+     "tag": "TESS",
+     "cu": 0
+    }
+   ],
+   "winner": "A",
+   "source": "Battle Record screenshots",
+   "note": "TESS assisted bURn on defense."
+  },
+  {
+   "id": "r7-29",
+   "round": 7,
+   "date": "2026-10-21",
+   "atkFaction": "red",
+   "attackers": [
+    {
+     "tag": "QIET",
+     "cu": 0
+    }
+   ],
+   "defenders": [
+    {
+     "tag": "TIHE",
+     "cu": 0
+    }
+   ],
+   "winner": "D",
+   "source": "Battle Record screenshots"
   }
  ],
  "plans": {}

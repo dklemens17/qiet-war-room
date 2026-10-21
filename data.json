@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-10-21T16:59:16Z",
+ "exportedAt": "2026-10-21T19:18:59Z",
  "config": {
   "assistProb": 0.6,
   "factionTotals": [
@@ -1651,12 +1651,13 @@
     }
    ],
    "name": "Kitty",
-   "notes": "Copper unchanged 10/17 17:30Z to 10/21 ~15:00Z (0/h for ~93h after dropping cities); production restarted right after the round 7 battle (about 2,300 in the 16:00Z tick).",
+   "notes": "Dropped cities 10/17 ~17:30Z and produced nothing for ~94h; locked Kage #13 for round 7 and took 254.2K from PRML. Cities retaken right after the battle: about 2,300 in the 10/21 16:00Z tick, so production is set to 2,300/h until a new reading confirms it.",
    "power": 15.7,
    "powerAt": "2026-10-14T16:05:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "Kty",
-   "warzone": 1629
+   "warzone": 1629,
+   "growth": 2300
   },
   {
    "copper": 1572662,

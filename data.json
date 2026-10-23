@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-10-23T12:09:41Z",
+ "exportedAt": "2026-10-23T12:41:40Z",
  "config": {
   "assistProb": 0.6,
   "factionTotals": [
@@ -69,8 +69,8 @@
    ],
    "name": "THE KILLER CREW",
    "notes": "",
-   "power": 17.9,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 17.2,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "3TKC",
    "warzone": 1600
@@ -225,8 +225,8 @@
    ],
    "name": "Full of Laughter",
    "notes": "",
-   "power": 18.5,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 18.3,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "55Hz",
    "warzone": 1615
@@ -279,8 +279,8 @@
    ],
    "name": "ĐoànKết",
    "notes": "",
-   "power": 11.6,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 11.0,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "88Hz",
    "warzone": 1615
@@ -936,8 +936,8 @@
    ],
    "name": "FAUJ",
    "notes": "",
-   "power": 15.9,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 16.0,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "FAUJ",
    "warzone": 1596
@@ -1137,8 +1137,8 @@
    ],
    "name": "Glorious Fight Force",
    "notes": "",
-   "power": 22.1,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 22.2,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "GfF",
    "warzone": 1629
@@ -1962,8 +1962,8 @@
    ],
    "name": "Lupi Bellatores",
    "notes": "",
-   "power": 18.9,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 17.9,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "LupB",
    "warzone": 1629
@@ -2215,8 +2215,8 @@
    ],
    "name": "NEW Beginnings",
    "notes": "",
-   "power": 16.3,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 15.6,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "NEwB",
    "warzone": 1596
@@ -2575,8 +2575,8 @@
    ],
    "name": "Quiet",
    "notes": "",
-   "power": 20.9,
-   "powerAt": "2026-10-14T16:05:00Z",
+   "power": 20.0,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "QIET",
    "warzone": 1600
@@ -2979,8 +2979,8 @@
    ],
    "name": "聯邦調查局",
    "notes": "",
-   "power": 16.1,
-   "powerAt": "2026-10-20T13:25:00Z",
+   "power": 16.2,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TFBI",
    "warzone": 1596
@@ -3033,8 +3033,8 @@
    ],
    "name": "TriggerHappy45",
    "notes": "",
-   "power": 20.1,
-   "powerAt": "2026-10-20T13:25:00Z",
+   "power": 20.5,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TH45",
    "warzone": 1600
@@ -3185,8 +3185,8 @@
    ],
    "name": "Triple Union",
    "notes": "",
-   "power": 17.6,
-   "powerAt": "2026-10-20T13:25:00Z",
+   "power": 18.0,
+   "powerAt": "2026-10-23T12:00:00Z",
    "source": "In-game Alliance leaderboard screenshots, 2026-10-21 after round 7",
    "tag": "TrON",
    "warzone": 1615
@@ -7859,12 +7859,21 @@
   "r8": {
    "round": 8,
    "fixed": {
+    "bURn": "GfF",
+    "TESS": "GfF",
+    "TIHE": "55Hz",
+    "ONSH": "TrON",
+    "FYNX": "88Hz",
+    "BUSN": "TH45",
     "VkEU": "TFBI",
     "OdD": "TFBI",
-    "MYGT": "NEwB"
+    "MYGT": "NEwB",
+    "WESS": "FAUJ",
+    "RSQ8": "LupB",
+    "USp": "3TKC"
    },
-   "updatedAt": "2026-10-23T12:15:00Z",
-   "note": "From the in-game declaration list 10/23: VkEU and OdD declared on TFBI; NEwB shows one declaration, which must be MYGT (the only other attacker in ranks 7-9)."
+   "updatedAt": "2026-10-23T12:45:00Z",
+   "note": "From the in-game declaration lists 10/23 morning (groups 1-4). NEwB's single declaration is inferred to be MYGT, the only other attacker in ranks 7-9."
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "exportedAt": "2026-10-21T19:18:59Z",
+ "exportedAt": "2026-10-23T12:09:41Z",
  "config": {
   "assistProb": 0.6,
   "factionTotals": [
@@ -7855,5 +7855,16 @@
    "source": "Battle Record screenshots"
   }
  ],
- "plans": {}
+ "plans": {
+  "r8": {
+   "round": 8,
+   "fixed": {
+    "VkEU": "TFBI",
+    "OdD": "TFBI",
+    "MYGT": "NEwB"
+   },
+   "updatedAt": "2026-10-23T12:15:00Z",
+   "note": "From the in-game declaration list 10/23: VkEU and OdD declared on TFBI; NEwB shows one declaration, which must be MYGT (the only other attacker in ranks 7-9)."
+  }
+ }
 }
